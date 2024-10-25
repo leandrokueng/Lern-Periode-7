@@ -1,4 +1,10 @@
-# Lern-Periode-7
+# Grobplanung Lern-Periode-7
+
+
+
+## Leitsatz
+
+
 
 ## Reflektion Lern-Periode 6
 Wir haben erst einen Test zurück bekommen und dabei habe ich eine 5.5 geschrieben. Ich bin glücklich über die Note.
