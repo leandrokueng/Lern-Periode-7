@@ -5,8 +5,7 @@
 ✍️ 25.10.2024 - 20.12.2024
 
 ## Leitsatz
-✍️ 
-
+✍️ Ich möchte in dieser Lern-Periode sehr viel am Modul 320 arbeiten weil es sehr wichtig ist. Ich möchte ebenfalls mich auf die Prüfung vorbereiten. Danach werde ich mich auf JavaScript fokussieren und beim Modul 294. Ich möchte ein Projekt selbst erstellen um JavaScript richtig zu lernen. 
 
 ## Reflektion Lern-Periode 6
 Wir haben erst einen Test zurück bekommen und dabei habe ich eine 5.5 geschrieben. Ich bin glücklich über die Note.
