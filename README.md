@@ -1,9 +1,11 @@
 # Grobplanung Lern-Periode-7
 
+✍️ Leandro Küng
 
+✍️ 25.10.2024 - 20.12.2024
 
 ## Leitsatz
-
+✍️ 
 
 
 ## Reflektion Lern-Periode 6
