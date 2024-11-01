@@ -20,5 +20,13 @@ Heute konnte ich meine arbeitspakete gründlich erledigen. Beim nächsten Tag ha
 
 # 01.11.2024
 
-- [ ] Heute möchte ich mich gründlich auf die LB320 vorbereiten.
+- [X] Heute möchte ich mich gründlich auf die LB320 vorbereiten.
+
+Ich finde ich bin gut vorbereitet auf den Test und ich hoffe ich schaffe die Note 5.
+
+# 08.11.2024
+
+- [ ] Heute möchte ich den Auftrag 03 im Modul 346 wiederhole
+- [ ] Ich möchte ein Lernvideo für Java schauen.
+- [ ] Ich möchte weiter mit Java programmiere.
 
