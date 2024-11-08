@@ -30,5 +30,11 @@ Ich finde ich bin gut vorbereitet auf den Test und ich hoffe ich schaffe die Not
 - [X] Ich möchte ein Lernvideo für Java Script schauen.
 - [X] Ich möchte weiter mit Java Script programmieren.
 
-Ich habe heute gut an meinen Aufträgen gearbeitet und ich konnte alle
+Ich habe heute gut an meinen Aufträgen gearbeitet und ich konnte alle erledigen. Das 1. Arbeitspaket war einfach und ich konnte mich schnell durch den Auftrag durcharbeiten und es leif sehr gut. Das Lernvideo für Java Script war sehr hilfreich jedoch kann ich noch nicht so viel. Ich habe beim letzten Arbeitspaket versucht ein bisschen zu programmieren jedoch brauche ich das nächte mal nochmal ein bisschen Zeit. 
+
+# 15.11.2024
+
+- [ ] Heute möchte ich weiter üben mit Java Script zu programmieren
+- [ ] Heute möchte ich den Auftrag 04 im Modul 346 durcharbeiten
+- [ ] Heute möchte ich den Auftrag 05 im Modul 346 durcharbeiten
 
