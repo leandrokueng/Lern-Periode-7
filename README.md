@@ -26,7 +26,7 @@ Ich finde ich bin gut vorbereitet auf den Test und ich hoffe ich schaffe die Not
 
 # 08.11.2024
 
-- [X] Heute möchte ich den Auftrag 03 im Modul 346 wiederholen
+- [X] Heute möchte ich den Auftrag 8423 im Modul 294 wiederholen
 - [X] Ich möchte ein Lernvideo für Java Script schauen.
 - [X] Ich möchte weiter mit Java Script programmieren.
 
