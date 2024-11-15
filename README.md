@@ -35,6 +35,14 @@ Ich habe heute gut an meinen Aufträgen gearbeitet und ich konnte alle erledigen
 # 15.11.2024
 
 - [ ] Heute möchte ich weiter üben mit Java Script zu programmieren
-- [ ] Heute möchte ich den Auftrag 04 im Modul 346 durcharbeiten
-- [ ] Heute möchte ich den Auftrag 05 im Modul 346 durcharbeiten
+- [X] Heute möchte ich den Auftrag 04 im Modul 346 durcharbeiten
+- [X] Heute möchte ich den Auftrag 05 im Modul 346 durcharbeiten
+
+Heute habe ich mit AWS gearbeitet und der Einstieg war sehr schwer. 
+
+# 22.11.2024
+
+- [ ] Ich möchte diesen Auftrag nachholen: LA_346_0709_CloudMigrationStrategie_KüngLeandro
+- [ ] Ich möchte Linux als VM aufstarten auf meinem Laptop
+- [ ] Ich möchte Windows noch mal als VM starten.
 
