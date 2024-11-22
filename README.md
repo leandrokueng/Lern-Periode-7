@@ -5,7 +5,7 @@
 ✍️ 25.10.2024 - 20.12.2024
 
 ## Leitsatz
-✍️ Ich möchte in dieser Lern-Periode sehr viel am Modul 320 arbeiten weil es sehr wichtig ist. Ich möchte ebenfalls mich auf die Prüfung vorbereiten. Danach werde ich mich auf JavaScript fokussieren und beim Modul 294. Ich möchte ein Projekt selbst erstellen um JavaScript richtig zu lernen. 
+✍️ Ich möchte in dieser Lern-Periode sehr viel am Modul 320 arbeiten weil es sehr wichtig ist. Ich möchte ebenfalls mich auf die Prüfung vorbereiten. Danach werde ich mich auf JavaScript fokussieren und beim Modul 294. Ich möchte ein Projekt selbst erstellen um JavaScript richtig zu lernen. Ich möchte im Modul 294 eien 5.5 erreichen. Im Modul 450 mindestens eine 5.5 und im Modul 346 mindestens eine 5.
 
 ## Reflektion Lern-Periode 6
 Wir haben erst einen Test zurück bekommen und dabei habe ich eine 5.5 geschrieben. Ich bin glücklich über die Note.
@@ -42,7 +42,14 @@ Heute habe ich mit AWS gearbeitet und der Einstieg war sehr schwer.
 
 # 22.11.2024
 
-- [ ] Ich möchte diesen Auftrag nachholen: LA_346_0709_CloudMigrationStrategie_KüngLeandro
-- [ ] Ich möchte Linux als VM aufstarten auf meinem Laptop
+- [X] Ich möchte diesen Auftrag nachholen: LA_346_0709_CloudMigrationStrategie_KüngLeandro
+- [X] Ich möchte Linux als VM aufstarten auf meinem Laptop
 - [ ] Ich möchte Windows noch mal als VM starten.
 
+Heute hatte ich noch ein Gespräch mit Herrn Meyer. Sonst war das Arbeiten gut.
+
+# 29.11.2024
+
+- [ ] Ich möchte Windows noch mal als VM starten.
+- [ ] Ich möchte den Crud Operation Auftrag wiederholen
+- [ ] Ich möchte mich auf die LB 294 vorbereiten.
