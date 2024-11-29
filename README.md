@@ -50,6 +50,12 @@ Heute hatte ich noch ein Gespräch mit Herrn Meyer. Sonst war das Arbeiten gut.
 
 # 29.11.2024
 
-- [ ] Ich möchte Windows noch mal als VM starten.
-- [ ] Ich möchte den Crud Operation Auftrag wiederholen
-- [ ] Ich möchte mich auf die LB 294 vorbereiten.
+- [X] Ich möchte in der LB 346 das Handlungsziel 1 mit Nael Ackle zusammen machen. 
+- [X] Ich möchte den Crud Operation Auftrag wiederholen
+- [X] Ich möchte mich auf die LB 294 vorbereiten.
+
+Heute habe ich das Handlungsziel 1 im Modul 346 abgeschlossen und den Crud Operationen Auftrag nochmal gemacht. Ich habe mich ebenfalls auf das Modul 294 vorbereitet.
+
+# 06.12.2024
+
+- [ ] Ich möchte an der LB 294 arbeiten.
