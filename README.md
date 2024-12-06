@@ -58,4 +58,6 @@ Heute habe ich das Handlungsziel 1 im Modul 346 abgeschlossen und den Crud Opera
 
 # 06.12.2024
 
-- [ ] Ich möchte an der LB 294 arbeiten.
+- [ ] Ich möchte Unit Testing nochmal wiederholen
+- [ ] Ich möchte den Interfaces auftrag machen
+- [ ] Ich möchte am Modul 450 arbeiten.
