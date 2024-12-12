@@ -67,4 +67,5 @@ Dokumentation über Video.
 # 12.12.2024
 
 - [ ] Am Modul 450 arbeiten
-- [ ] 
+- [ ] Ich möchte die LB 450 analysieren und Aufträge dafür lösen
+- [ ] Ich möchte beim Modul 347 weitermachen.
