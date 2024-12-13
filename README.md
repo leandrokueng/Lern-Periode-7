@@ -67,5 +67,12 @@ Dokumentation über Video.
 # 13.12.2024
 
 - [ ] Am Modul 450 arbeiten
-- [ ] Ich möchte die LB 450 analysieren und Aufträge dafür lösen
-- [ ] Ich möchte beim Modul 347 weitermachen.
+- [X] Ich möchte die LB 450 analysieren und Aufträge dafür lösen
+- [X] Ich möchte beim Modul 347 weitermachen.
+
+Heute habe ich ausserdem ein neues Projekt angefangen. Ich habe angefangen ein Website zu programmieren über Fortnite.
+
+# 20.12.2024
+
+- [ ] Heute möchte ich an meinem Projekt weiterarbeiten
+- [ ] Heute möchte ich am Modul 347 weitermachen
