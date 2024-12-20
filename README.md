@@ -74,5 +74,7 @@ Heute habe ich ausserdem ein neues Projekt angefangen. Ich habe angefangen ein W
 
 # 20.12.2024
 
-- [ ] Heute möchte ich an meinem Projekt weiterarbeiten
-- [ ] Heute möchte ich am Modul 347 weitermachen
+- [X] Heute möchte ich an meinem Projekt weiterarbeiten
+- [X] Heute möchte ich am Modul 347 weitermachen.
+
+Heute habe ich mit Docker weitergearbeitet.
