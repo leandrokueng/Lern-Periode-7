@@ -78,3 +78,7 @@ Heute habe ich ausserdem ein neues Projekt angefangen. Ich habe angefangen ein W
 - [X] Heute möchte ich am Modul 347 weitermachen.
 
 Heute habe ich mit Docker weitergearbeitet.
+
+## Reflexion
+
+Die ganze Lernperiode war sehr anstrengend. Ich habe 3 ganze Module abgeschlossen und ich habe meist während den Lernatelier Stunden an den Modulen gearbeitet. Das Modul 320 habe ich erfolgreich mit der Note 5 abgeschlossen und das Modul 346 (was ich persöhnlich schwieriger fand als das Modul 320) habe ich mit der Note 4.5 abgeschlossen. Die Note des Modul 294 habe ich noch nicht erhalten. Meine einschätzung liegt bei einer Note von 4.0.
